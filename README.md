@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73314940/227033966-765bde5a-438d-4b97-844b-f70c67ac6352.jpg"><br>
   <strong>Stealer + Clipper + Keylogger</strong><br>
   <em>A Stealer written in C#, designed to send logs to your Discord channel via webhook.</em>
 </p>
